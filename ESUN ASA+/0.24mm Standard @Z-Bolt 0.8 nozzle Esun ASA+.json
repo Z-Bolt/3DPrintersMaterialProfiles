@@ -1,0 +1,27 @@
+{
+    "bottom_shell_layers": "10",
+    "enable_support": "1",
+    "from": "User",
+    "gap_infill_speed": "80",
+    "inherits": "0.24mm Standard @Z-Bolt 0.8 nozzle",
+    "inner_wall_speed": "60",
+    "internal_solid_infill_speed": "80",
+    "layer_height": "0.24",
+    "name": "0.24mm Standard @Z-Bolt 0.8 nozzle - Esun ASA+",
+    "outer_wall_speed": "30",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "0.24mm Standard @Z-Bolt 0.8 nozzle - Esun ASA+",
+    "skirt_loops": "3",
+    "sparse_infill_density": "100%",
+    "sparse_infill_speed": "80",
+    "support_speed": "80",
+    "support_type": "tree(auto)",
+    "top_surface_speed": "80",
+    "version": "2.3.2.50",
+    "wall_loops": "6"
+}

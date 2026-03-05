@@ -1,0 +1,19 @@
+{
+    "bridge_speed": "20",
+    "from": "User",
+    "gap_infill_speed": "40",
+    "inherits": "0.20mm Standard @Z-Bolt 0.6 nozzle",
+    "inner_wall_speed": "30",
+    "internal_bridge_speed": "20",
+    "internal_solid_infill_speed": "60",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Z-Bolt 0.6 nozzle - Aerotex",
+    "outer_wall_speed": "30",
+    "print_settings_id": "0.20mm Standard @Z-Bolt 0.6 nozzle - Aerotex",
+    "sparse_infill_density": "30%",
+    "sparse_infill_pattern": "3dhoneycomb",
+    "sparse_infill_speed": "60",
+    "top_surface_speed": "60",
+    "version": "2.3.0.0",
+    "wall_loops": "3"
+}
