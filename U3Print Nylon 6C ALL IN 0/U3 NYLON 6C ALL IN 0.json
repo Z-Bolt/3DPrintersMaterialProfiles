@@ -33,7 +33,7 @@
         "35"
     ],
     "filament_settings_id": [
-        "U3 NYLON 6C ALL IN 0 @S300"
+        "U3 NYLON 6C ALL IN 0"
     ],
     "filament_vendor": [
         "U3Print"
@@ -47,7 +47,7 @@
     ],
     "inherits": "Generic PA @System",
     "is_custom_defined": "0",
-    "name": "U3 NYLON 6C ALL IN 0 @S300",
+    "name": "U3 NYLON 6C ALL IN 0",
     "nozzle_temperature_range_high": [
         "350"
     ],

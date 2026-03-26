@@ -15,7 +15,7 @@
         "Сушка: 4 часа при 100 градусах"
     ],
     "filament_settings_id": [
-        "U3 TECHNO 6C CF30 @S300"
+        "U3 TECHNO 6C CF30"
     ],
     "filament_shrink": [
         "99.75%"
@@ -35,7 +35,7 @@
     ],
     "inherits": "Generic PA @System",
     "is_custom_defined": "0",
-    "name": "U3 TECHNO 6C CF30 @S300",
+    "name": "U3 TECHNO 6C CF30",
     "nozzle_temperature": [
         "285"
     ],
