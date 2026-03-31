@@ -53,7 +53,7 @@
     ],
     "inherits": "eSUN PETG @System",
     "is_custom_defined": "0",
-    "name": "AeroTex",
+    "name": "Filamentarno AeroTex",
     "nozzle_temperature": [
         "260"
     ],
