@@ -1,0 +1,69 @@
+{
+	"chamber_temperature": [
+		"70"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"filament_cost": [
+		"2718"
+	],
+	"filament_density": [
+		"1.36"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_max_volumetric_speed": [
+		"10"
+	],
+	"filament_notes": [
+		"Сушка: 10-24 часа при 95-115 градусах"
+	],
+	"filament_settings_id": [
+		"NovaPrint3D PA-GF30HT"
+	],
+	"filament_shrink": [
+		"99.95%"
+	],
+	"filament_shrinkage_compensation_z": [
+		"98.78%"
+	],
+	"filament_type": [
+		"PA-GF"
+	],
+	"filament_vendor": [
+		"NovaPrint3D"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"80"
+	],
+	"hot_plate_temp_initial_layer": [
+		"80"
+	],
+	"inherits": "Generic PA @System",
+	"internal_bridge_fan_speed": [
+		"30"
+	],
+	"name": "NovaPrint3D PA-GF30HT",
+	"overhang_fan_threshold": [
+		"50%"
+	],
+	"pressure_advance": [
+		"0"
+	],
+	"support_material_interface_fan_speed": [
+		"30"
+	],
+	"temperature_vitrification": [
+		"200"
+	],
+	"textured_plate_temp": [
+		"130"
+	],
+	"textured_plate_temp_initial_layer": [
+		"130"
+	],
+	"version": "2.3.0.4"
+}
